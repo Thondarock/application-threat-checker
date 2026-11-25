@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.venv/
+.env
+# PyInstaller output - publish the .exe as a GitHub Release instead
+build/
+dist/
